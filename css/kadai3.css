@@ -1,0 +1,40 @@
+h1{
+    color:white;
+    font-size:45px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+    
+}
+
+h2{
+    color:black;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+
+h3{
+    color:skyblue;
+    font-size:25px;
+    font-weight: bold;
+    font-family: "Impact";
+}
+
+p{
+    color:red;
+}
+
+
+
+
+body{
+        background-image:url("../images/vampires-kiss-1988.jpg");
+        background-repeat: repeat;
+        background-attachment:fixed;
+        background-position: bottom right;
+}
