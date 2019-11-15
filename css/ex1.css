@@ -1,0 +1,60 @@
+h1{
+    color:white;
+    font-size:45px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: salmon;
+    
+}
+
+h2{
+    color:rosybrown;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: lime;
+    
+}
+
+h3{
+    color:skyblue;
+    font-size:25px;
+    font-weight: bold;
+    font-family: "Impact";
+}
+
+p{
+    color:red;
+}
+
+
+
+
+body{
+        background-image:url("../images/original.jpg");
+        background-repeat: repeat;
+        background-attachment:fixed;
+        background-position: bottom right;
+}
+
+table{
+    color:white;
+    background-color: seagreen;
+}
+
+a{
+    color:coral;
+}
+ol{
+    background-image:url("../images/header-title-background.png");
+}
+
+li{
+    color:white;
+}
+
+address{
+    color:steelblue;
+}
