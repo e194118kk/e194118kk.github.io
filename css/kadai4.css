@@ -1,0 +1,50 @@
+h1{
+    color:white;
+    font-size:35px;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    
+}
+
+h2#shumi1{
+    color:black;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: slategrey;
+    
+}
+
+h2#shumi2{
+    color:royalblue;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: yellowgreen;
+    
+}
+
+h2#link{
+    color:white;
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: darkcyan;
+    
+}
+
+p.linkblue{
+    color: blue;
+}
+
+
+body{
+        background-image:url("../images/original.jpg");
+        background-repeat: repeat;
+        background-attachment:fixed;
+        background-position: bottom right;
+}
