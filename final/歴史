@@ -4,7 +4,7 @@
 <html>
     <head>
      <meta charesrt="utf=8">
-     <title>歴史</title>
+     <title>課題5</title>
         <link rel="stylesheet"type="text/css"href="css/style.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="js/jquery.bxslider.min.js">
@@ -21,49 +21,33 @@
     <body>
         
         <div class="title">
-            <a href="index.html">
-                <img src="images/ural.png" alt="代替テキスト" width="174" height="58">
-            </a>
+                  <img src="images/ural.png" alt="代替テキスト" width="174" height="58">
         </div>
         
         <div class="menu">
             <span class="menuitem">
-                <a href="歴史.html">歴史 </a>
+                歴史
             </span><!--
          --><span class="menuitem">
-                <a href="車種.html">車種 </a>
+                車種
             </span><!--
           --><span class="menuitem">
-                <a href="乗り方.html">乗り方 </a>
+                アクセサリー
             </span><!--
           --><span class="menuitem">
-                <a href="比較.html">比較 </a>
+                比較
             </span>
-        </div>
-        
-        <div class="kaisetu">
-            <img src="images/History1.jpg" alt="代替テキスト">
-        </div>
-        
-        <div class="kaisetu">
-            <img src="images/History2.jpeg" alt="代替テキスト">
-        </div>
-        
-        <div class="kaisetu">
-            <img src="images/History3.jpeg" alt="代替テキスト">
-        </div>
-        
-        <div class="kaisetu">
-            <img src="images/History4.jpeg" alt="代替テキスト">
         </div>
 
 
         <div class="bottom">
-            <br>〒552-0005<br>
+            〒552-0005<br>
             大阪府大阪市港区田中一丁目15番1号<br>
             TEL / FAX：06-4395-5685<br>
             sales@ural-jp.com<br>
             Copyright (C) 2007-2017 Ural Japan Corporation. All Rights Reserved.<br>
+            当サイトはウラルジャパン非公式サイトです。<br>
+            本家公式HPは<a href="https://www.ural-jp.com/#ja/home">こちら </a>
         </div>
 
     </body>
