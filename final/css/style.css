@@ -1,0 +1,197 @@
+div.title{
+    width:width;
+    height:100px;
+    background-color: #212121;
+    text-align: left;
+    font-size: 80px; 
+    top: 0;
+    left: 0;
+    margin:0px;
+    vertical-align: top;
+}
+
+div.image1{
+    width:width;
+    height:600px;
+    background-color: white;
+    text-align: left;
+    font-size: 60px; 
+    top: 0;
+    left: 0;
+    margin:0px;
+    vertical-align: top;
+}
+
+div.title1{
+    width:width;
+    height:814px;
+    background-color: grey;
+    text-align: left;
+    font-size: 20px;
+    top: 0;
+    left: 0;
+    margin:0px;
+    vertical-align: top;
+    position: relative;
+}
+
+div.n1{
+    width:width;
+    position: absolute;
+    color:white;
+    font-weight: bold;
+    font-size: 2em;
+    font-family :Quicksand, sans-serif;
+    top: 150px;
+    left: 0;
+    margin:0px;
+}
+
+div.text1{
+    width:width;
+    height:830px;
+    background-color: white;
+    text-align: left;
+    font-size: 30px; 
+    top: 0;
+    left: 0;
+    margin:0px;
+    vertical-align: top;
+    position: relative;
+}
+
+div.n2{
+    width:width;
+    position: absolute;
+    color:white;
+    font-weight: bold;
+    color:black;
+    font-size: 3em;
+    top: 0;
+    left: 60%;
+    text-align: right;
+    margin:0px;
+}
+
+div.text2{
+    width:width;
+    height:600px;
+    background-color: white;
+    text-align: center;
+    font-size: 40px; 
+    top: 0;
+    left: 0;
+    margin:0px;
+    vertical-align: top;
+}
+
+div.bottom{
+    width:width;
+    height:200px;
+    background-color: gray;
+    top: 0;
+    left: 0;
+    margin:0px;
+    text-align: center;
+    vertical-align: top;
+    color:white;
+}
+
+img.logo{
+    width:10px;
+    height:30px;
+}
+
+div.menu{
+    background-color: #212121;
+}
+
+
+span.menuitem{
+    width:379px;
+    height:40px;
+    color:white;
+    background-color: #212121;
+    display: inline-block;
+    font-size: 30px;
+    font-family: impact;
+    text-align:center;
+    margin:0;
+    vertical-align: top;
+}
+div.kaisetu{
+    text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+div.gearup{
+    width:800;
+    height:500;
+    text-align: center;
+    background-color:lightgray;
+    font-size: 25px;
+}
+
+div.ct{
+    width:800;
+    height:500;
+    text-align: center;
+    background-color: lightgray;
+    font-size: 25px;
+}
+
+div.gr{
+    text-align: center;
+    font-size: 30px;
+}
+
+div.ct1{
+    text-align: center;
+    font-size: 30px;
+}
+
+div.comp{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+div.hikaku{
+    width:width;
+    height:1000px;
+}
+
+div.ga{
+    width:width;
+    position: absolute;
+    color:black;
+    font-weight: bold;
+    font-size: 2em;
+    font-family :Quicksand, sans-serif;
+    top: 620px;
+    left: 300px;
+    margin:0px;
+}
+
+div.ca{
+    width:width;
+    position: absolute;
+    color:black;
+    font-weight: bold;
+    font-size: 2em;
+    font-family :Quicksand, sans-serif;
+    top: 620px;
+    left: 1050px;
+    margin:0px;
+}
+
+body{
+    width:width;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+}
